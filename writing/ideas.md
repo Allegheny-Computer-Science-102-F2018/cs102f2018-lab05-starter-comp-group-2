@@ -16,13 +16,26 @@ Please be sure that you justify why your idea is of interest to discrete structu
 ### Idea 1
 1) Explain your idea for a class project.
 
+A study of the usefulness of web scrapers in data accumulation.
+
 2) How is the idea connected to computer science?
+
+The use of web scrapers to gather data is very common in computer science and
+there are many different tools that already exist. The main one for Python is
+BeautifulSoup, but still has its limitations.
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
+*A primer on theory-driven web scraping: Automatic extraction of big data from the Internet for use in psychological research*
+
 4) What is the central thesis to the article?
 
+The central idea of the article is the exploration of web scrapers and their
+uses in different areas, mainly psychology.
+
 5) How will this article support your idea?
+
+
 
 
 ### Idea 2
