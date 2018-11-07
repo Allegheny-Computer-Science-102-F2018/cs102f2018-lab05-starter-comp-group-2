@@ -16,7 +16,7 @@ Please be sure that you justify why your idea is of interest to discrete structu
 ### Idea 1
 1) Explain your idea for a class project.
 
-A study of the usefulness of web scrapers in data accumulation.
+A study of the use of web scrapers in data accumulation.
 
 2) How is the idea connected to computer science?
 
@@ -35,7 +35,8 @@ uses in different areas, mainly psychology.
 
 5) How will this article support your idea?
 
-
+This article discusses the creation and use of both a web scraper and crawler to
+gather data as well as its use in psychology.
 
 
 ### Idea 2
