@@ -65,7 +65,7 @@ In computer science algorithms are frequently used to accomplish a variety of ta
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
-Article: *An Integer Programming Model for the KenKen Problem*, 2016
+Article: *An Integer Programming Model for the KenKen Problem*, 2016  
 https://file.scirp.org/Html/1-1040464_66317.htm
 
 The article presents an algorithm for solving a KenKen puzzle.
