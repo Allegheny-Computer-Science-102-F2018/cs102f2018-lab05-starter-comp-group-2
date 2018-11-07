@@ -57,13 +57,26 @@ It deals with the idea of taking words and parsing through the different ideas i
 ### Idea 3
 1) Explain your idea for a class project.
 
+The idea is to create a KenKen puzzle solver.
+
 2) How is the idea connected to computer science?
+
+In computer science algorithms are frequently used to accomplish a variety of tasks such as searching or sorting. In order to solve the KenKen puzzle, we would have to create an algorithm.
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
+Article: *An Integer Programming Model for the KenKen Problem*, 2016
+https://file.scirp.org/Html/1-1040464_66317.htm
+
+The article presents an algorithm for solving a KenKen puzzle.
+
 4) What is the central thesis to the article?
 
+The article considers modeling techniques and an integer program for solving KenKen puzzles in the modeling language AMPL.
+
 5) How will this article support your idea?
+
+This article will help give us direction for coming up with an algorithm to solve a KenKen puzzle in Python.
 
 
 ### Idea 4
