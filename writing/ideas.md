@@ -2,7 +2,7 @@
 
 
 ## Date: 24 Oct 2018
-## Group Names: Joshua Yee, Brianna Crawford, Tyler Lyle, Zach Miller
+## Group Names: Joshua Yee, Brianna Crawford, Tyler Lyle, Zach Andrews
 
 
 
@@ -65,7 +65,7 @@ In computer science algorithms are frequently used to accomplish a variety of ta
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
-Article: *An Integer Programming Model for the KenKen Problem*, 2016  
+Article: *An Integer Programming Model for the KenKen Problem*, 2016
 https://file.scirp.org/Html/1-1040464_66317.htm
 
 The article presents an algorithm for solving a KenKen puzzle.
@@ -82,13 +82,27 @@ This article will help give us direction for coming up with an algorithm to solv
 ### Idea 4
 1) Explain your idea for a class project.
 
+A study of the use of web scrapers in data accumulation.
+
 2) How is the idea connected to computer science?
+
+The use of web scrapers to gather data is very common in computer science and
+there are many different tools that already exist. The main one for Python is
+BeautifulSoup, but still has its limitations.
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
+(*A primer on theory-driven web scraping: Automatic extraction of big data from the Internet for use in psychological research*)["https://search.proquest.com/docview/1790926611?pq-origsite=summon#s13"]
+
 4) What is the central thesis to the article?
 
+The central idea of the article is the exploration of web scrapers and their
+uses in different areas, mainly psychology.
+
 5) How will this article support your idea?
+
+This article discusses the creation and use of both a web scraper and crawler to
+gather data as well as its use in psychology.
 
 
 ### Idea 5
