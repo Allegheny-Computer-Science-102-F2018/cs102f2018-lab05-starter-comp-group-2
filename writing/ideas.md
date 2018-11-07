@@ -2,7 +2,7 @@
 
 
 ## Date: 24 Oct 2018
-## Group Names:
+## Group Names: Joshua Yee, Brianna Crawford, Tyler Lyle, Zach Miller
 
 
 
@@ -16,25 +16,42 @@ Please be sure that you justify why your idea is of interest to discrete structu
 ### Idea 1
 1) Explain your idea for a class project.
 
+The study of the use for symbolic mathematics
+
 2) How is the idea connected to computer science?
 
+Symbolic math is key to aid in the understanding of different computational expressions.
+
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
+https://www.sciencedirect.com/science/article/pii/S0010465517303028
 
 4) What is the central thesis to the article?
 
-5) How will this article support your idea?
+ A program that performs the factorization of dimensionally regulated poles in parametric integrals, and the subsequent numerical evaluation of the finite coefficients. It also creates a library of the integrated functions, such that it can be linked to user-specific codes for the evaluation of matrix elements in a way similar to analytic integral libraries using python packages.
 
+
+5) How will this article support your idea?
+It is reliant on python and the use of symbolic math in order to create manipulations of symbolic math in order to create a new expression of integrals.
 
 ### Idea 2
 1) Explain your idea for a class project.
 
+Utilizing text and frequency analysis.
+
 2) How is the idea connected to computer science?
 
+It utilizes tools given to us as computer scientists to aid in a real world application
+
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
+https://journals.sagepub.com/doi/abs/10.1177/1470785318758558
+
 
 4) What is the central thesis to the article?
 
+Using text analysis in order to find trends of the market and utilizing predictions to create a better sense of quantitative and qualitative market research
+
 5) How will this article support your idea?
+It deals with the idea of taking words and parsing through the different ideas in order to better develop an idea of trends or themes in given books or data analysis.
 
 
 ### Idea 3
