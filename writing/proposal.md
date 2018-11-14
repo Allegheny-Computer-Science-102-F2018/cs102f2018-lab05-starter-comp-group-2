@@ -1,5 +1,5 @@
 ### Names:  
-Tyler Lyle, Joshua Yee, Brianna Crawford, Zach Something idk bro I dont know your last name and am too lazy to walk next door to get it.
+Tyler Lyle, Joshua Yee, Brianna Crawford, Zachary Andrews
 ### Group:
 1/2 Comp Group
 
