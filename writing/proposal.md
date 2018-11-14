@@ -14,9 +14,13 @@ Our proposed project examines two algorithms used to solve Sudoku puzzles.  The 
 ![Sudoku](sudoku.png)
 
 ## Algorithms
-The first algorithm we will look at is a way to utilize different methods in order to create a flow that will search for the next cell to solve and then another to check if the the cell is valid across rows, columns, and blocks using loops in order to check each possibility. This way the code will be separated out in an orderly and readable manner.
+
+The first of the two algorithms we plan to implement is Backtracking, AKA Brute Force. This method explores every possible outcome of a single branch until there is a failure of the rules set in place. For this reason Backtracking can be a very long and expensive (computationally) process. This method works by moving cell by cell and placing one of the possible remaining numbers, both for that region as well as the rows the cell is in. If there is no possible number that can be placed in that cell then the algorithm backs up to the previously assigned cell and tries to find a new number that will work. This process repeats until every cell has a number assigned and all cells are legal.
+
+![Backtracking](Backtracking.gif)
 
 In the second algorithm we will be looking at will be a way to solve it in a similar way, but instead of calling them from different methods, just having one method with a condensed idea of solving this code. This is compact and will be able to run effectively. However, we want to test and see which algorithm is more effective and more efficient.
 
 ## Conclusion
+
 Sudoku is a fun puzzle game that many people enjoy, the goal of this project is to test two different algorithms and set test cases and benchmarks in order to deduce which code runs more effectively. We can do this by setting a timer for both methods and then running them on the same machine so that different space overhead will not be a variable when testing. This project is going to analyze the algorithms and show reasons why one algorithm may work more efficiently than the other.
