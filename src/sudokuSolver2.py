@@ -2,34 +2,11 @@ import sys
 from copy import deepcopy
 
 
-def output(a):
-    sys.stdout.write(str(a))
+
 
 N = 9
 
 field = [[5,1,7,6,0,0,0,3,4],[2,8,9,0,0,4,0,0,0],[3,4,6,2,0,5,0,9,0],[6,0,2,0,0,0,0,1,0],[0,3,8,0,0,6,0,4,7],[0,0,0,0,0,0,0,0,0],[0,9,0,0,0,0,0,7,8],[7,0,3,4,0,0,5,6,0],[0,0,0,0,0,0,0,0,0]]
-
-def print_field(field):
-    end_time = (time.time() - start_time)
-    if not field:
-        output("No solution")
-        return
-    for i in range(N):
-        for j in range(N):
-            cell = field[i][j]
-            if cell == 0 or isinstance(cell, set):
-                output('.')
-            else:
-                output(cell)
-            if (j + 1) % 3 == 0 and j < 8:
-                output(' |')
-
-            if j != 8:
-                output(' ')
-        output('\n')
-        if (i + 1) % 3 == 0 and i < 8:
-            output("- - - + - - - + - - -\n")
-    print("\n End time = ", end_time)
 
 def read(field):
     """ Read field into state (replace 0 with set of possible values) """
