@@ -6,7 +6,7 @@ from copy import deepcopy
 
 N = 9
 
-field = [[5,1,7,6,0,0,0,3,4],[2,8,9,0,0,4,0,0,0],[3,4,6,2,0,5,0,9,0],[6,0,2,0,0,0,0,1,0],[0,3,8,0,0,6,0,4,7],[0,0,0,0,0,0,0,0,0],[0,9,0,0,0,0,0,7,8],[7,0,3,4,0,0,5,6,0],[0,0,0,0,0,0,0,0,0]]
+#field = [[5,1,7,6,0,0,0,3,4],[2,8,9,0,0,4,0,0,0],[3,4,6,2,0,5,0,9,0],[6,0,2,0,0,0,0,1,0],[0,3,8,0,0,6,0,4,7],[0,0,0,0,0,0,0,0,0],[0,9,0,0,0,0,0,7,8],[7,0,3,4,0,0,5,6,0],[0,0,0,0,0,0,0,0,0]]
 
 def read(field):
     """ Read field into state (replace 0 with set of possible values) """
@@ -20,7 +20,7 @@ def read(field):
 
     return state
 
-state = read(field)
+
 
 
 def done(state):
@@ -107,7 +107,8 @@ def propagate(state):
             return True
 
 
-def solve(state):
+def solve(field):
+    state = read(field)
     """ Solve sudoku """
     solvable = propagate(state)
 
